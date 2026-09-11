@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "@react-three/fiber": "^9.7.0",
     "@shadergradient/react": "^2.4.20",
     "class-variance-authority": "0.7.1",
